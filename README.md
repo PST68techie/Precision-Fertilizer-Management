@@ -23,33 +23,3 @@ Output: The application identifies the disease, provides information about it, a
 ⚠️ Disclaimer
 PlantPulse is a Proof of Concept (POC) and is intended for demonstration purposes only. The data used in this project is provided without any guarantee from the creator. Do not use this tool for making real-world farming decisions. The creator is not responsible for any outcomes resulting from the use of this application. However, the project illustrates the potential applications of ML and DL in precision farming when developed on a larger scale with verified data.
 
-📦 Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/Vishu011/PlantPulse.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd PlantPulse
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python app.py
-🌟 Future Work
-Data Expansion: Integrate more diverse and verified datasets.
-Enhanced Models: Improve the accuracy of ML/DL models.
-User Feedback: Incorporate user feedback to refine features and functionality.
-📢 Acknowledgements
-This project is inspired by the advancements in ML and DL for agriculture. Special thanks to the agricultural research community and technology enthusiasts who continually push the boundaries of precision farming.
-
-📬 Contact
-For more information or inquiries, please reach out to lakshyacool011@example.com.
